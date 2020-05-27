@@ -1,2 +1,4 @@
 # Glass-Quality-Prediction-Weekend-Hackathon-6
-My solution to the hack
+Leader Board Image
+
+![](hack6_leaderBoard.png)
